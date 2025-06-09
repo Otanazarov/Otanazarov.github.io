@@ -1,5 +1,4 @@
 import { Mail, Phone, MapPin, GitlabIcon as GitHub, LocateIcon as LocationIcon } from "lucide-react"
-import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
 import SkillCard from "@/components/skill-card"
 import ExperienceCard from "@/components/experience-card"
